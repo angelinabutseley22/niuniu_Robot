@@ -64,13 +64,13 @@ It really motivates me to continue this project further.
 
 **Note:** By default the bot uses the default heroku-20 stack.
 
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/DivideProjects/Alita_Robot)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/angelinabutseley22/niuniu_Robot)
 
 ### Traditional
 
 - Install Python v3.7 or later from [Python's Website](https://python.org)
 - Install virtualenv using `python3 -m pip -U install virtualenv`.
-- **Fork** or Clone the project using `git clone https://github.com/DivideProjects/Alita_Robot.git`
+- **Fork** or Clone the project using `git clone https://github.com/angelinabutseley22/niuniu_Robot.git`
 - Create Virtualenv using: `virtualenv venv`
 - Install the requirements using `python3 -m pip install -r requirements.txt`
 - Fill in all the variables in *Development* class, not *Config* class. **Sudo, Dev, Whitelist** users are optional!!
